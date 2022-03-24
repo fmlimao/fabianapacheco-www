@@ -1,0 +1,26 @@
+{
+  "name": "fabianapacheco-www",
+  "version": "1.0.0",
+  "description": "Site da Fabiana Pacheco",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fmlimao/fabianapacheco-www.git"
+  },
+  "keywords": [],
+  "author": "Leandro Macedo <fmlimao@gmail.com> (http://github.com/fmlimao)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fmlimao/fabianapacheco-www/issues"
+  },
+  "homepage": "https://github.com/fmlimao/fabianapacheco-www#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "standard": "^16.0.4"
+  }
+}
